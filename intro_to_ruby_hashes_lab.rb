@@ -48,9 +48,6 @@ def monopoly_with_fourth_tier
       :shortline_railroad => {:mortgage_value => 800}
     }
     } 
-}
-}
-}
 end
   
   
